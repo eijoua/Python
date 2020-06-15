@@ -1,5 +1,0 @@
-def my_str(x) :
-return x [::-1]
-
-mytxt = my_str ("Hello this is Areej")
-print(mytxt)
